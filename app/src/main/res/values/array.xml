@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>班级</item>
+        <item>姓名</item>
+        <item>学号</item>
+        <item>性别</item>
+        <item>手机号</item>
+    </string-array>
+</resources>
